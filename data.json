@@ -1,0 +1,42 @@
+[
+    {
+    "Moviename":"Fidda",
+    "movieimg":"https://w0.peakpx.com/wallpaper/569/266/HD-wallpaper-movie-fidaa.jpg",
+    "MovieDescription":"  Varun Tej and Sai Pallavi ", 
+    "Year":" 2018"
+    }, 
+    {
+    "Moviename":"Darling", 
+    "movieimg":"https://upload.wikimedia.org/wikipedia/en/b/b7/Darling_%282010%29_poster.jpg",
+    "MovieDescription":"Prabhas and Kajal Aggarwal.", 
+    "Year":" 2013"
+    },
+
+    {
+        "Moviename":"Arya", 
+        "movieimg":"https://upload.wikimedia.org/wikipedia/en/3/3d/Aarya_Telugu_Movie.jpg",
+        "MovieDescription":"Allu Arjun, Anu Mehta", 
+        "Year":" 2022"
+        },
+
+        {
+            "Moviename":"Krishna",
+            "movieimg":"https://upload.wikimedia.org/wikipedia/en/6/6e/KIRSHNA.png",
+            "MovieDescription":"Ravi Teja and Trisha,", 
+            "Year":" 2008"
+            },
+        {
+            "Moviename":"F2",
+            "movieimg":"https://data1.ibtimes.co.in/en/full/706686/f2-fun-frustration.jpg?h=450&l=50&t=40",
+            "MovieDescription":"Venkatesh, Varun Tej, Tamannaah Bhatia, and Mehreen Pirzada",
+            "Year":"2019"
+        },
+        {
+            "Moviename":"srimanthudu",
+            "movieimg":"https://th.bing.com/th/id/OIP.WZA-AQdQ5P8_hbUi991CTAHaEg?rs=1&pid=ImgDetMain",
+            "MovieDescription":"Mahesh Babu, Shruti Haasan",
+            "Year":"2015"
+            
+}
+
+    ]

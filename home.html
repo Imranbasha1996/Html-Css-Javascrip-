@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body> 
+    <form action=".more.html">
+        <label for="name"> Name</label>
+        <input type="text" placeholder="Enter your name" id="username">
+        <br><br>
+        <label for="">Password</label>
+        <input type="text" placeholder="Enter your password" id="password">
+        <br><br>
+        <button type="submit" id="sub">submit</button>
+
+    </form>
+
+    <script>
+    sub.addEventListener('click',(e)=>{
+        event.preventDefault();
+
+        let name=username.value;
+        let psw=password.value;
+
+        console.log(name);
+
+        console.log(psw);
+    })
+    </script>
+    
+</body>
+</html>
